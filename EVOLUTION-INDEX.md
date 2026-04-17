@@ -65,6 +65,7 @@
 - `china-fundraising-wargame/exit-endgame.md` — 退出策略
 - `china-fundraising-wargame/fa-countergame.md` — FA 双面博弈 + 创始人画像调制器
 - `china-fundraising-wargame/combat-casebook.md` — 8 个中国创投死法案例 Playbook
+- `china-fundraising-wargame/BENCHMARK-TEMPLATE.md` — 空白测试框架（让读者跑自己的项目）
 
 ### TS 阶段（最关键）
 - `term-sheet-negotiator/SKILL.md` — 谈判方法论
@@ -123,8 +124,8 @@
 
 本次发布包含：
 - 6 个主 skill
-- 16 个卫星文件（含案例库 + 话术库 + 场景调整 + FA 博弈 + 死法 Playbook）
-- 约 29 万字中文内容 / 9000+ 行 Markdown
+- 16 个卫星文件（含案例库 + 话术库 + 场景调整 + FA 博弈 + 死法 Playbook）+ 1 个空白 Benchmark Template
+- 约 30 万字中文内容 / 10000+ 行 Markdown
 - 从 Seed 到 IPO 全链条覆盖
 
 ### 未来可能的升级方向

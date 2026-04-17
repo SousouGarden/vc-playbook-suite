@@ -92,7 +92,7 @@ git clone https://github.com/Sammilux/vc-playbook-suite.git
 
 **功能**：三体博弈模型（创始人+VC+政府），6 层融资战役推演。包含 65 处对国资/引导基金/人民币基金/CVC/返投/战投等中国特有场景的覆盖。
 
-**卫星**：persona-debate-scripts（中国 VC 6 人辩论）、exit-endgame（退出策略）、new-tracks-playbook（新赛道打法）、fa-countergame（FA 双面博弈+创始人画像调制器）、combat-casebook（8 个中国创投死法案例 Playbook）。
+**卫星**：persona-debate-scripts（中国 VC 6 人辩论）、exit-endgame（退出策略）、new-tracks-playbook（新赛道打法）、fa-countergame（FA 双面博弈+创始人画像调制器）、combat-casebook（8 个中国创投死法案例 Playbook）、BENCHMARK-TEMPLATE（空白测试框架，让读者跑自己的项目）。
 
 ### 4. `term-sheet-negotiator` — TS 条款反打
 
